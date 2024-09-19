@@ -608,8 +608,8 @@ body{
     margin-right: 16px;
     -webkit-animation-name: anime;
             animation-name: anime;
-    -webkit-animation-duration: 15s;
-            animation-duration: 15s;
+    -webkit-animation-duration: 30s;
+            animation-duration: 30s;
     -webkit-animation-timing-function: linear;
             animation-timing-function: linear;
     -webkit-animation-iteration-count: infinite;
@@ -655,8 +655,8 @@ body{
             transform: translateX(calc(-100% - 20px));
     -webkit-animation-name: anime;
             animation-name: anime;
-    -webkit-animation-duration: 15s;
-            animation-duration: 15s;
+    -webkit-animation-duration: 30s;
+            animation-duration: 30s;
     -webkit-animation-timing-function: linear;
             animation-timing-function: linear;
     -webkit-animation-iteration-count: infinite;
