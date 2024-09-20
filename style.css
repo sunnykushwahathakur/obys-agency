@@ -35,12 +35,12 @@ html, body{
 body{
     overflow-x: hidden;
 }
-/* .mousefollower{
+.mousefollower{
     border: 2px slid white;
     background-color: #fff;
     scale: 2;
     mix-blend-mode: difference;
-} */
+}
 #loader{
     height: 100%;
     width: 100%;
