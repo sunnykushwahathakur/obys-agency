@@ -55,7 +55,7 @@ tl.from("#line1-part1",{
     }
 });
 tl.to(".line h2", {
-    animationName: "anime",
+    animationName: "loaderanime",
     opacity: 1
 })
 tl.to("#loader",{

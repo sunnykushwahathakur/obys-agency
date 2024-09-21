@@ -49,7 +49,6 @@ body{
     background-color: #030303;
     padding: 25vh 10vw;
 }
-
 .line{
     /* background-color: red; */
     height: -webkit-fit-content;
@@ -223,7 +222,7 @@ body{
     height: -webkit-fit-content;
     height: -moz-fit-content;
     height: fit-content;
-    /* overflow-y: hidden; */
+    overflow-y: hidden;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -816,7 +815,7 @@ body{
     height: -webkit-fit-content;
     height: -moz-fit-content;
     height: fit-content;
-    /* overflow-y: hidden; */
+    overflow-y: hidden;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
